@@ -1,0 +1,62 @@
+body{
+	
+	background : darkorchid;
+	border:5px solid red;
+	
+	
+}
+
+html{
+	box-sizing:border-box;
+	font-family:'Open Sans',sans-serif;
+}
+
+section div{
+	padding:15px 25px; 
+	text-align:center;
+	font-size: 60px;
+	text-decoration-color: blue;
+
+}
+span{
+	font-size: 2em;
+	text-transform: uppercase;
+	justify-content: space-around;
+
+}
+
+#first{
+
+	font-family: 'Big Shoulders Stencil Text', cursive;
+	text-transform: uppercase;
+	text-align:center;
+
+
+}
+
+.second{
+	width:800px;
+	height:200px;
+	display:flex;
+	flex-direction:column;
+	padding:15px 25px;
+	border-radius:10px;
+	margin:5px auto;
+
+}
+
+#hello{
+	display:flex;
+	
+    flex-direction:column;
+	justify-content: space-between;
+
+}
+img{
+	border:5px dashed blue;
+	border-radius :20px;
+	width:60%;
+	height:60%;
+	margin:5% 20%;
+
+}
